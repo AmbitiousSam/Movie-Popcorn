@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Movie-Popcorn/static/css/main.b788aff6.css",
-    "main.js": "/Movie-Popcorn/static/js/main.f40dbc85.js",
+    "main.js": "/Movie-Popcorn/static/js/main.44dc5ca2.js",
     "index.html": "/Movie-Popcorn/index.html",
     "main.b788aff6.css.map": "/Movie-Popcorn/static/css/main.b788aff6.css.map",
-    "main.f40dbc85.js.map": "/Movie-Popcorn/static/js/main.f40dbc85.js.map"
+    "main.44dc5ca2.js.map": "/Movie-Popcorn/static/js/main.44dc5ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.b788aff6.css",
-    "static/js/main.f40dbc85.js"
+    "static/js/main.44dc5ca2.js"
   ]
 }
