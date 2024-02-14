@@ -69,6 +69,7 @@ export default function App() {
     fetchMovies();
   }, [query]);
 
+
   return (
     <>
       <NavBar>
